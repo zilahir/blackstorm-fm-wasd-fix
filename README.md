@@ -7,4 +7,4 @@ This hotkey mapping is written for ther mac keyboard utility called [karabiner](
 
 You need to download the `json` file, and copy it to the following folder:
 
-`~/.config/karabiner/assets/complex_modifications` where the complex modifications` of the `Karabiner` are stored..
+`~/.config/karabiner/assets/complex_modifications` where the complex modifications of the `Karabiner` are stored..
